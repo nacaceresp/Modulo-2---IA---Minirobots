@@ -99,3 +99,22 @@ Tomado de:
 "Reverse Engineering Techniques in Machine Learning" de Shaohua Kevin Zhou, publicado en International Journal of Advanced Computer Science and Applications en 2015.
 
 "Genetic Programming: An Introduction" de Wolfgang Banzhaf et al.
+
+## Capitulo 5
+
+1.Algunas variables a considerar pueden incluir:
+
+Precio actual de la acción: El precio actual de la acción es una variable importante para considerar, ya que puede ser una buena indicación del comportamiento de la acción en el futuro.
+
+Volatilidad de la acción: La volatilidad de la acción puede influir en el precio de la acción. Si la acción es muy volátil, es posible que tenga una mayor probabilidad de fluctuar significativamente en el futuro.
+
+Precio de apertura: El precio de apertura es el precio de la moneda en el momento en que se abre el mercado Forex para el período de negociación. Este precio es establecido por el mercado y puede ser influenciado por factores como la oferta y la demanda, los eventos económicos y políticos, y otros factores que afectan al mercado Forex.
+
+Precio máximo: El precio máximo es el precio más alto al que se ha negociado la moneda durante el período de negociación. Este precio puede ser influenciado por factores como las noticias económicas, los cambios en las tasas de interés, la estabilidad política, entre otros.
+
+Precio mínimo: El precio mínimo es el precio más bajo al que se ha negociado la moneda durante el período de negociación. Este precio también puede ser influenciado por factores similares a los que afectan al precio máximo.
+
+Dicha información se puede sacar de la página: https://es.investing.com/crypto/bitcoin/historical-data
+
+
+
